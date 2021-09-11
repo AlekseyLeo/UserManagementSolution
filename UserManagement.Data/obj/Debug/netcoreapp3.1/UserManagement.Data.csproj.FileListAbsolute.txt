@@ -1,0 +1,5 @@
+C:\Users\ALEKSEY-PC\source\repos\UserManagementSolution\UserManagement.Data\bin\Debug\netcoreapp3.1\UserManagement.Data.deps.json
+C:\Users\ALEKSEY-PC\source\repos\UserManagementSolution\UserManagement.Data\bin\Debug\netcoreapp3.1\UserManagement.Data.dll
+C:\Users\ALEKSEY-PC\source\repos\UserManagementSolution\UserManagement.Data\obj\Debug\netcoreapp3.1\UserManagement.Data.csprojAssemblyReference.cache
+C:\Users\ALEKSEY-PC\source\repos\UserManagementSolution\UserManagement.Data\obj\Debug\netcoreapp3.1\UserManagement.Data.AssemblyInfoInputs.cache
+C:\Users\ALEKSEY-PC\source\repos\UserManagementSolution\UserManagement.Data\obj\Debug\netcoreapp3.1\UserManagement.Data.AssemblyInfo.cs
